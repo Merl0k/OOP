@@ -1,0 +1,14 @@
+E:\коды\c#\Laba5\bin\Debug\net9.0\Laba5.exe
+E:\коды\c#\Laba5\bin\Debug\net9.0\Laba5.deps.json
+E:\коды\c#\Laba5\bin\Debug\net9.0\Laba5.runtimeconfig.json
+E:\коды\c#\Laba5\bin\Debug\net9.0\Laba5.dll
+E:\коды\c#\Laba5\bin\Debug\net9.0\Laba5.pdb
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.GeneratedMSBuildEditorConfig.editorconfig
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.AssemblyInfoInputs.cache
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.AssemblyInfo.cs
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.csproj.CoreCompileInputs.cache
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.dll
+E:\коды\c#\Laba5\obj\Debug\net9.0\refint\Laba5.dll
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.pdb
+E:\коды\c#\Laba5\obj\Debug\net9.0\Laba5.genruntimeconfig.cache
+E:\коды\c#\Laba5\obj\Debug\net9.0\ref\Laba5.dll
