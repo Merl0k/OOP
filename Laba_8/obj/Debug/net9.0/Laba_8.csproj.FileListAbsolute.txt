@@ -1,0 +1,14 @@
+E:\коды\c#\Laba_8\bin\Debug\net9.0\Laba_8.exe
+E:\коды\c#\Laba_8\bin\Debug\net9.0\Laba_8.deps.json
+E:\коды\c#\Laba_8\bin\Debug\net9.0\Laba_8.runtimeconfig.json
+E:\коды\c#\Laba_8\bin\Debug\net9.0\Laba_8.dll
+E:\коды\c#\Laba_8\bin\Debug\net9.0\Laba_8.pdb
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.AssemblyInfoInputs.cache
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.AssemblyInfo.cs
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.csproj.CoreCompileInputs.cache
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.dll
+E:\коды\c#\Laba_8\obj\Debug\net9.0\refint\Laba_8.dll
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.pdb
+E:\коды\c#\Laba_8\obj\Debug\net9.0\Laba_8.genruntimeconfig.cache
+E:\коды\c#\Laba_8\obj\Debug\net9.0\ref\Laba_8.dll
